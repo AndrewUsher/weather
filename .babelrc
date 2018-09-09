@@ -8,6 +8,7 @@
         "loose": true,
         "modules": false
       }
-    ]
+    ],
+    "stage-2"
   ]
 }
