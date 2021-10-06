@@ -1,14 +1,13 @@
 {
   "presets": [
-    "react",
+    "@babel/react",
     [
-      "env",
+      "@babel/env",
       {
         "targets": "last 3 versions",
         "loose": true,
         "modules": false
       }
-    ],
-    "stage-2"
+    ]
   ]
 }
